@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/recharts": "^1.8.29",
+    "chart.js": "^4.4.2",
+    "faker": "^6.6.6",
+    "react-chartjs-2": "^5.2.0",
+    "recharts": "^2.12.3"
+  }
+}
